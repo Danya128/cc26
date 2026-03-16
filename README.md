@@ -29,8 +29,9 @@ Greetings fellow octopus
 - Modify the program so that instead of taking input from the mouse to decide what notes to play, you pick a random cell, play that sequencea and after one second, you choose one of the 8 surrounding cells to move to next. Repeat this process to generate a random walk melody through the grid. If you get to the edges, wrap around.
 - Upload your script to Brightspace to get your mark for this week
 
-Bonus! Look up Seamus Tansey and listen to some of his music 
+Bonus! 
 
+- Investigate Seamus Tansey and listen to some of his music 
 - Experiment with different instruments. See [list of midi instruments](https://soundprogramming.net/file-formats/general-midi-instrument-list/).
 - And effects on the master audio bus to get different sounds
 - Have a slider to adjust the root note (the note the grid starts on)  
